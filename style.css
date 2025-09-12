@@ -186,7 +186,12 @@ button.delete-btn:hover {
   color: #6c757d;
 }
 
+.pending-section td {
+  color: #6c757d;
+}
+
 td:last-child {
   text-align: center;
   width: 80px;
 }
+
