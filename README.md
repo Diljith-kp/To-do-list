@@ -1,28 +1,37 @@
-#  ​ To-Do List Web App
+# 🔐 SecurePass – Modern Password Toolkit  
 
-Stay organized with this simple yet elegant **task manager** built using **HTML, CSS, and JavaScript**.  
-Powered by **Local Storage**, your tasks persist even after a page refresh — and they look great with a sleek dark theme!
-
----
-
-##  Live Preview  
-🔗 [Try it out here](https://diljith-kp.github.io/To-do-list)
+**SecurePass** is a sleek and modern password management toolkit built with **HTML, CSS, and JavaScript**.  
+It allows you to generate strong, customizable passwords and instantly check their strength with a live visual meter.  
 
 ---
 
-##  Screenshot  
+## 🚀 Live Demo  
+👉 [Try it here](https://diljith-kp.github.io/Password-generator)  
+
+---
+
+## 📸 Screenshot  
 <p align="center">
-  <img src="https://res.cloudinary.com/dptj37ebu/image/upload/v1753715692/Screenshot2025-07-28204058_asimax.jpg" alt="To-Do List App Screenshot" width="60%">
+  <img src="https://res.cloudinary.com/dptj37ebu/image/upload/v1757801320/Screenshot_2025-09-14_032732_zpnadu.png" alt="To-Do List App Screenshot" width="60%">
 </p>
+---
+
+## ✨ Features  
+- ⚡ **Password Generator** – adjustable length (8–32) with options for uppercase, lowercase, numbers, and symbols.  
+- 📋 **One-Click Copy** – copy generated passwords instantly to your clipboard.  
+- 🛡️ **Strength Checker** – real-time password strength evaluation with a colored meter and text feedback.  
+- 🎨 **Modern UI** – stylish glassmorphism with aurora background, smooth animations, and responsive design.  
 
 ---
 
-##  Features  
-- 🆕 Add tasks with a title and optional description  
--  Mark tasks as completed (moves them to a separate section)  
--  Remove tasks when done or no longer relevant  
--  Track progress using a counter for pending and completed tasks  
--  Tasks are saved automatically via **Local Storage**, offering persistence across sessions  
--  Responsive design with a clean, modern dark interface
+## 🛠️ Tech Stack  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Design**: Glassmorphism + Aurora gradient background  
+- **Features**: Local password generation & live strength analysis  
 
 ---
+
+## 📂 Project Structure  
+├── index.html # Main structure
+├── style.css # Styling and UI design
+├── script.js # Logic for generator and strength checker
