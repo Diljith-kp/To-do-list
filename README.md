@@ -6,7 +6,7 @@ It allows you to add new tasks with titles and descriptions, track pending and c
 ---
 
 ## 🚀 Live Demo  
-👉 [Try it here](https://diljith-kp.github.io/To-Do-List/)  
+👉 [Try it here](https://diljith-kp.github.io/To-do-list/)  
 
 ---
 
