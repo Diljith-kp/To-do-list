@@ -1,37 +1,39 @@
-# 🔐 SecurePass – Modern Password Toolkit  
+# 📝 To-Do List – Simple & Powerful Task Manager  
 
-**SecurePass** is a sleek and modern password management toolkit built with **HTML, CSS, and JavaScript**.  
-It allows you to generate strong, customizable passwords and instantly check their strength with a live visual meter.  
+**To-Do List** is a modern and intuitive task management application built with **HTML, CSS, and JavaScript**.  
+It allows you to add new tasks with titles and descriptions, track pending and completed tasks, and easily manage your daily workflow.  
 
 ---
 
 ## 🚀 Live Demo  
-👉 [Try it here](https://diljith-kp.github.io/Password-generator)  
+👉 [Try it here](https://diljith-kp.github.io/To-Do-List/)  
 
 ---
 
 ## 📸 Screenshot  
 <p align="center">
-  <img src="https://res.cloudinary.com/dptj37ebu/image/upload/v1757801320/Screenshot_2025-09-14_032732_zpnadu.png" alt="To-Do List App Screenshot" width="60%">
-</p>
+<img src="https://res.cloudinary.com/dptj37ebu/image/upload/v1753715692/Screenshot2025-07-28204058_asimax.jpg" alt="To-Do List App Screenshot" width="60%">
+</p>  
+
 ---
 
 ## ✨ Features  
-- ⚡ **Password Generator** – adjustable length (8–32) with options for uppercase, lowercase, numbers, and symbols.  
-- 📋 **One-Click Copy** – copy generated passwords instantly to your clipboard.  
-- 🛡️ **Strength Checker** – real-time password strength evaluation with a colored meter and text feedback.  
-- 🎨 **Modern UI** – stylish glassmorphism with aurora background, smooth animations, and responsive design.  
+- ⚡ **Task Creation** – Add new tasks with a title and a detailed description.  
+- 📋 **Task Management** – Tasks are automatically separated into *Pending* and *Completed* sections.  
+- ✅ **Progress Tracking** – Live counter shows the number of pending and completed tasks.  
+- 💾 **Local Storage** – Your tasks are saved in the browser’s local storage, so they persist even after closing the tab.  
+- 🎨 **Modern UI** – Clean, responsive design with a gradient background and smooth user experience.  
 
 ---
 
 ## 🛠️ Tech Stack  
 - **Frontend**: HTML, CSS, JavaScript  
-- **Design**: Glassmorphism + Aurora gradient background  
-- **Features**: Local password generation & live strength analysis  
+- **Features**: Local storage for data persistence, dynamic DOM manipulation  
+- **Design**: Responsive layout and clean typography  
 
 ---
 
 ## 📂 Project Structure  
 ├── index.html # Main structure
-├── style.css # Styling and UI design
-├── script.js # Logic for generator and strength checker
+├── style.css # Styling for the UI
+├── script.js # Application logic for task management
